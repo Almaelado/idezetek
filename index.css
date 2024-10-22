@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: aquamarine;
+    margin-top:20%;
+}
+
+#test{
+    text-align: center;
+    background-color: azure;
+    border-radius: 5px;
+}
+
+h1,h3{
+    text-align: center;
+}
+
+.iranyito {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#elozo{
+    background-color: brown;
+}
+
+#kovetkezo{
+    background-color: brown;
+}
